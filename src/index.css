@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", sans-serif;
+  background-image: linear-gradient(to right bottom, #141e30, #182539, #1c2c42, #20334b, #243b55);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  color: white;
+}
+
