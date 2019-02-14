@@ -9,11 +9,11 @@ Pour commencer le jeu :
 
 Puis suivez les instructions.
 
-Jeu développé en React dans le cadre le la LP DSF.
+Jeu développé en React dans le cadre le la LP DFS.
 
 ---
 Amiliorations :
 - On pourrait gérer le dessin du pendu à chaque instant.
 - Gérer l'insertion de la lettre au clavier directement.
 - Utiliser une api ou à défaut un tableau de mots plutôt que de rentrer le mot dès le début
-- Utiliser materialize ou bootstrap( j'ai pas compris comment il faisait. Mon istallation React-Materialise n'implémente qu'un sous-ensemble de composants de Materialize.)
+- Pimper un peu plus l'application avec materialize en plus poussé ou juste avec du css perso.
